@@ -7,7 +7,7 @@
 
 为了训练速度和可重复性，本脚本使用内置 Walker-like 圆轨道几何模型生成
 可见性、距离、仰角和剩余可见时长，再调用 channel_model 计算 SNR、ER、ET。
-如果只想在 STK 中可视化场景，请运行 stk_generate_ch3.py。
+
 """
 from __future__ import annotations
 
