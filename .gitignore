@@ -1,26 +1,31 @@
+# Python cache
 __pycache__/
 *.pyc
 *.pyo
 
+# IDE
 .idea/
 .vscode/
 
+# 不上传说明文档
+*.md
+
+# 不上传训练/评估输出、大数据集、模型
+outputs/
 cha3/outputs/
 cha4/outputs/
-outputs/
 
+*.npz
 *.pt
 *.pth
-*.npz
 *.pkl
 *.ckpt
 
+# 日志/临时文件
 *.log
 *.tmp
 *.bak
 
+# 系统文件
 .DS_Store
 Thumbs.db
-
-
-*.md
