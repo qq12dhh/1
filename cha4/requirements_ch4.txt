@@ -1,0 +1,4 @@
+numpy
+matplotlib
+torch
+# 可选 STK 可视化需要 agi.stk12

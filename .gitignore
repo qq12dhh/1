@@ -19,8 +19,8 @@ outputs/
 *.tmp
 *.bak
 
-*.csv
-*.xlsx
-
 .DS_Store
 Thumbs.db
+
+
+*.md
