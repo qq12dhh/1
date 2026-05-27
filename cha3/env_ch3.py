@@ -1,4 +1,4 @@
-"""第三章 MDP 环境。"""
+""" MDP 环境。"""
 from __future__ import annotations
 
 from pathlib import Path

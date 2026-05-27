@@ -7,10 +7,14 @@ __pycache__/
 .idea/
 .vscode/
 
-# 不上传说明文档
+
 *.md
 
-# 不上传训练/评估输出、大数据集、模型
+
+cha3/run_ch3_all.py
+cha4/run_ch4_all.py
+
+
 outputs/
 cha3/outputs/
 cha4/outputs/

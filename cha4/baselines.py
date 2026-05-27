@@ -1,4 +1,4 @@
-"""第四章基准切换策略。"""
+"""基准切换策略。"""
 from __future__ import annotations
 
 import numpy as np

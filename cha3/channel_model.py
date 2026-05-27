@@ -1,4 +1,4 @@
-"""第三章信道模型：SNR、容量、ET/ER 计算。"""
+"""信道模型：SNR、容量、ET/ER 计算。"""
 from __future__ import annotations
 
 import numpy as np

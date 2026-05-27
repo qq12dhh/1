@@ -1,4 +1,4 @@
-"""训练第四章 Dueling-DDQN / DDQN / DQN。"""
+"""训练 Dueling-DDQN / DDQN / DQN。"""
 from __future__ import annotations
 
 import argparse

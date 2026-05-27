@@ -1,4 +1,4 @@
-"""第四章 MDP 环境：业务感知 + 星间路径质量/跳数。"""
+"""MDP 环境：业务感知 + 星间路径质量/跳数。"""
 from __future__ import annotations
 
 from pathlib import Path
@@ -13,11 +13,11 @@ from utils import masked_argmax
 class Ch4HandoverEnv:
     """单终端 episode 环境。
 
-    状态向量复现论文式(4-20)：
+    状态向量论：
         [上一时隙接入 one-hot, 当前 C^g, 当前路径跳数 d, 当前路径质量 Q,
          上一时隙实际速率 tau(t-1), 业务类型 sigma]
     动作：选择一颗可见卫星作为接入卫星。
-    奖励：复现式(4-22)~(4-27)，以速率、跳数、切换开销为核心，加入轻量全局负载影响项。
+    奖励：以速率、跳数、切换开销为核心，加入轻量全局负载影响项。
     """
 
     def __init__(

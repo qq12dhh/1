@@ -1,4 +1,4 @@
-"""第三章对比切换策略。"""
+"""对比切换策略。"""
 from __future__ import annotations
 
 import numpy as np

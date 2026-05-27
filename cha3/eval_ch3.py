@@ -1,4 +1,4 @@
-"""评估第三章 DDQN/DQN/最大信噪比/最大可见时长策略。"""
+"""评估 DDQN/DQN/最大信噪比/最大可见时长策略。"""
 from __future__ import annotations
 
 import argparse

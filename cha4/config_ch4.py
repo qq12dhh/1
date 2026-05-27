@@ -1,4 +1,4 @@
-"""第四章：基于 Dueling-DDQN 的业务感知低轨卫星链路切换复现配置。"""
+""" 基于 Dueling-DDQN 的业务感知低轨卫星链路切换配置。"""
 from __future__ import annotations
 
 from dataclasses import asdict, dataclass

@@ -1,4 +1,4 @@
-"""评估第四章 Dueling-DDQN 与基准算法。"""
+"""评估 Dueling-DDQN 与基准算法。"""
 from __future__ import annotations
 
 import argparse

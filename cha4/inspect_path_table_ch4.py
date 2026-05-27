@@ -1,4 +1,4 @@
-"""查看第四章数据集中的星间路径信息表。"""
+"""查看数据集中的星间路径信息表。"""
 from __future__ import annotations
 
 import argparse

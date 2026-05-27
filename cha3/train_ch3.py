@@ -1,4 +1,4 @@
-"""训练第三章 DQN / DDQN。"""
+"""训练 DQN / DDQN。"""
 from __future__ import annotations
 
 import argparse

@@ -1,4 +1,4 @@
-"""第四章复现通用工具函数。"""
+"""通用工具函数。"""
 from __future__ import annotations
 
 import os

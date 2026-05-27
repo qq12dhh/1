@@ -1,4 +1,4 @@
-"""可选：在 STK 中创建第四章低轨卫星网络可视化场景。"""
+"""可选：在 STK 中创建低轨卫星网络可视化场景。"""
 from __future__ import annotations
 
 import argparse

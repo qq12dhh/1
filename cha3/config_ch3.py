@@ -1,4 +1,4 @@
-"""第三章 DDQN 用户链路切换复现统一配置。"""
+"""DDQN 用户链路切换统一配置。"""
 from __future__ import annotations
 
 from dataclasses import asdict, dataclass

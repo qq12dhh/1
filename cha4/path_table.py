@@ -1,4 +1,4 @@
-"""第四章星间路径信息表与路径质量广播更新机制。"""
+"""星间路径信息表与路径质量广播更新机制。"""
 from __future__ import annotations
 
 from collections import deque
